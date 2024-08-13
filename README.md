@@ -13,7 +13,6 @@ HTML5: For structuring the content.
 CSS3: For styling and layout.
 JavaScript: For dynamic functionality and interaction.
 OpenTDB API: For fetching quiz questions.
-# Screen Shots:
 
 
 
