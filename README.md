@@ -22,9 +22,6 @@ For styling and layout.
 For dynamic functionality and interaction.
 # OpenTDB API:
 For fetching quiz questions.
-# Getting Started
-# Clone the Repository:
-git clone https://github.com/your-username/quiz-app.git
 # Navigate to the Project Directory:
 cd quiz-app
 # Open the Application:
